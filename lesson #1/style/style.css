@@ -1,0 +1,47 @@
+.header{
+	text-align: center;
+	border-bottom: 1px gray solid;
+}	
+.wrapper{
+	display:flex;
+	justify-content: left;
+}
+.left-menu{
+	background:aqua;
+	width: 150px;
+	border-right: 1px gray solid;
+}
+
+.left-menu ul{
+	position: fixed;
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+}
+
+.button{
+	border: 1px black solid;
+	border-radius:10px;
+	
+}
+
+.button a{
+	display:block;
+	margin: 5px;
+	padding: 3px;
+	padding-left:px;
+}
+
+.button a:hover{
+	background:gray;
+}
+
+.content{
+	background:aqua;
+	flex:1;
+}
+
+.footer{
+	text-align: center;
+	border-top: 1px gray solid;
+}

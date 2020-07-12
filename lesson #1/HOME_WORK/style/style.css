@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Verdana;
+}
+
+.header{
+	background: #bff2cd;
+	min-height: 150px;	
+}
+
+
+
+.goods{	
+	width:250px;
+	height:300px;
+	border: 1px solid black;
+}
+
+.goodsImage{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.goodsOptions{
+	display:flex;
+	justify-content:space-around;
+}
+
+.button{
+	width:80px;
+	height:20px; 
+}

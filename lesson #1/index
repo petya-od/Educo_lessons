@@ -1,0 +1,50 @@
+<html>
+	<head>
+		 <link rel="stylesheet" href="style/style.css">
+		<style>
+			
+		</style>
+	</head>
+	<body>
+		<div class="header">
+			header
+		</div>
+		<div class="wrapper">
+			<div class="left-menu">
+				<ul class="navBar">
+					<li>
+						<div class="button">
+							<a href=#">Главная</a>
+						</div>
+					</li>
+					<li>
+						<div class="button">
+							<a href=#">Главная</a>
+						</div>
+					</li>
+					<li>
+						<div class="button">
+							<a href=#">Главная</a>
+						</div>
+					</li>
+					<li>
+						<div class="button">
+							<a href=#">Главная</a>
+						</div>
+					</li>
+					<li>
+						<div class="button">
+							<a href=#">Главная</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="content">
+				images
+			</div>
+		</div>
+		<div class="footer">
+			footer
+		</div>
+	</body>
+<html>
